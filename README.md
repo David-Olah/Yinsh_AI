@@ -2,6 +2,8 @@ YinshPredict
 
 A machine learning based boardstate analysis model that will predict which player will win a game of Yinsh.
 
+Final accuracy: 71.2%
+
 This project is divided into 3 different programs, Main.py, xgbmain.py, and YinshPredict.py
 
 Main.py:
